@@ -1,5 +1,5 @@
 # 项目进度跟踪表
--app演示地址 [SauceX.github.io](SauceX.github.io)
+-app演示地址 [SauceX.github.io](http://SauceX.github.io)
 
 ### 2018年8月23日
 
